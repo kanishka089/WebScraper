@@ -1,0 +1,13 @@
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\bin\Debug\WebScraper.exe.config
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\bin\Debug\WebScraper.exe
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\bin\Debug\WebScraper.pdb
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.dll
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.pdb
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.xml
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\obj\Debug\WebScraper.csprojAssemblyReference.cache
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\obj\Debug\WebScraper.csproj.CoreCompileInputs.cache
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\obj\Debug\WebScraper.csproj.CopyComplete
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\obj\Debug\WebScraper.exe
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\obj\Debug\WebScraper.pdb
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\bin\Debug\CsQuery.dll
+E:\Repositories\Kanishka\WebScraper\WebScraper\WebScraper\bin\Debug\CsQuery.xml
